@@ -2,7 +2,7 @@
 // So fuckers start giving attention to the project
 // Let's start
 
-import javx.swing.*;
+import javax.swing.*;
 import java.lang.*;
 import java.net.*;
 import java.sql.*;
